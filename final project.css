@@ -1,0 +1,18 @@
+#page1 {
+    background-color: seagreen;
+    display: grid;
+    place-content: center;
+    height: 80vh;
+}
+
+#page2 {
+    background-color: goldenrod;
+    display: grid; 
+    place-content: center;
+}
+
+#page3 {
+    background-color: magenta;
+    display: grid;
+    place-content: center;
+}
